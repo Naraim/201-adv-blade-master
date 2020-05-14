@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/201-adv-blade-master/static/css/main.f77e26b4.chunk.css",
+    "main.js": "/201-adv-blade-master/static/js/main.a55c0ce9.chunk.js",
+    "main.js.map": "/201-adv-blade-master/static/js/main.a55c0ce9.chunk.js.map",
+    "runtime-main.js": "/201-adv-blade-master/static/js/runtime-main.2941959f.js",
+    "runtime-main.js.map": "/201-adv-blade-master/static/js/runtime-main.2941959f.js.map",
+    "static/js/2.14ae555d.chunk.js": "/201-adv-blade-master/static/js/2.14ae555d.chunk.js",
+    "static/js/2.14ae555d.chunk.js.map": "/201-adv-blade-master/static/js/2.14ae555d.chunk.js.map",
+    "index.html": "/201-adv-blade-master/index.html",
+    "precache-manifest.1cd863ce7b57f25b8760c2d56da9b578.js": "/201-adv-blade-master/precache-manifest.1cd863ce7b57f25b8760c2d56da9b578.js",
+    "service-worker.js": "/201-adv-blade-master/service-worker.js",
+    "static/css/main.f77e26b4.chunk.css.map": "/201-adv-blade-master/static/css/main.f77e26b4.chunk.css.map",
+    "static/js/2.14ae555d.chunk.js.LICENSE.txt": "/201-adv-blade-master/static/js/2.14ae555d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2941959f.js",
+    "static/js/2.14ae555d.chunk.js",
+    "static/css/main.f77e26b4.chunk.css",
+    "static/js/main.a55c0ce9.chunk.js"
+  ]
+}
