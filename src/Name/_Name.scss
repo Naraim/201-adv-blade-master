@@ -1,0 +1,28 @@
+.contName{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+.inputName {
+    margin: 0 auto;
+    width: 500px;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid white;
+    background: none;
+    color: white;
+    font-weight: 500;
+    padding: 5px 30px;
+}
+
+.finalSword{
+    display: flex;
+    justify-content: center;
+    margin: 100px auto;
+    width: 100%;
+}
+
+.result{
+    width: 500px;
+}
