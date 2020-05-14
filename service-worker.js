@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/201-adv-blade-master/precache-manifest.1cd863ce7b57f25b8760c2d56da9b578.js"
+  "/201-adv-blade-master/precache-manifest.e5199cf792777f196821475c9c807cc4.js"
 );
 
 self.addEventListener('message', (event) => {
